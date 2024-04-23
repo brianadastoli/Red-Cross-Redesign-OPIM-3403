@@ -3,76 +3,57 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Website</title>
+    <title>American Red Cross</title>
     <style>
         body {
-            background-color: red; /* Red background */
-            background-image: url('red_cross_image.jpg'); /* Red cross image */
-            background-repeat: no-repeat;
-            background-size: cover;
-            color: white; /* Text color */
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
         }
-        /* Other CSS styles can be added here */
+        header {
+            background-color: #d32f2f;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .hero {
+            background-image: url('[red-cross-image.jpg'](https://www.google.com/search?q=%22C%3A%5CUsers%5Cbrian%5CDownloads%5CRC.jpeg%22&rlz=1C1CHBF_enUS956US956&oq=%22C%3A%5CUsers%5Cbrian%5CDownloads%5CRC.jpeg%22&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDEwNzNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)');
+            background-size: cover;
+            background-position: center;
+            color: white;
+            text-align: center;
+            padding: 100px 0;
+        }
+        .hero h2 {
+            font-size: 36px;
+            margin-bottom: 20px;
+        }
+        .hero p {
+            font-size: 18px;
+        }
+        .donate-button {
+            background-color: #d32f2f;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            font-size: 18px;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+        .donate-button:hover {
+            background-color: #b71c1c;
+        }
     </style>
 </head>
 <body>
-
-<header>
-    <h1>Welcome to Your Website</h1>
-    <nav>
-        <ul>
-            <li><a href="#about">About Us</a></li>
-            <li><a href="#services">What We Do</a></li>
-            <li><a href="#get-involved">Get Involved</a></li>
-            <li><a href="#news">News & Updates</a></li>
-            <li><a href="#resources">Resources</a></li>
-            <li><a href="#contact">Contact</a></li>
-            <li><a href="#donate">Donate</a></li>
-        </ul>
-    </nav>
-</header>
-
-<main>
-    <section id="about">
-        <h2>About Us</h2>
-        <p>Unite, Serve, Strengthen Together</p>
-    </section>
-
-    <section id="services">
-        <h2>What We Do</h2>
+    <header>
+        <h1>American Red Cross</h1>
+    </header>
+    <div class="hero">
+        <h2>Unite, Serve, Strengthen Together</h2>
         <p>You Can Make a Difference</p>
-    </section>
-
-    <section id="get-involved">
-        <h2>Get Involved</h2>
-        <p>American Red Cross</p>
-    </section>
-
-    <section id="news">
-        <h2>News & Updates</h2>
-        <p>No news at the moment.</p>
-    </section>
-
-    <section id="resources">
-        <h2>Resources</h2>
-        <p>Your financial gift helps people affected by disasters big and small.</p>
-    </section>
-
-    <section id="contact">
-        <h2>Contact</h2>
-        <p>Contact information can be added here.</p>
-    </section>
-
-    <section id="donate">
-        <h2>Donate</h2>
-        <p>Your financial gift helps people affected by disasters big and small.</p>
-        <button>Donate Now</button>
-    </section>
-</main>
-
-<footer>
-    <p>&copy; 2024 Your Website. All rights reserved.</p>
-</footer>
-
+        <a href="#donate" class="donate-button">Donate Now</a>
+    </div>
 </body>
 </html>
