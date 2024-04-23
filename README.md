@@ -53,7 +53,4 @@
     <div class="hero">
         <h2>Unite, Serve, Strengthen Together</h2>
         <p>You Can Make a Difference</p>
-        <a href="#donate" class="donate-button">Donate Now</a>
-    </div>
-</body>
-</html>
+        <a href="#donate" class="donate-button">Donate Now</a
