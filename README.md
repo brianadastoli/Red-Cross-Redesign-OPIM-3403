@@ -17,7 +17,7 @@
             text-align: center;
         }
         .hero {
-            background-image: url('C:\Users\brian\Downloads\RC.jpeg');
+            background-image: url('C:/Users/brian/Downloads/RC.jpeg');
             background-size: cover;
             background-position: center;
             color: white;
