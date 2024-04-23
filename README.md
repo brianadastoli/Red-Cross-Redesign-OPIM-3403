@@ -17,7 +17,7 @@
             text-align: center;
         }
         .hero {
-            background-image: url('[red-cross-image.jpg'](https://www.google.com/search?q=%22C%3A%5CUsers%5Cbrian%5CDownloads%5CRC.jpeg%22&rlz=1C1CHBF_enUS956US956&oq=%22C%3A%5CUsers%5Cbrian%5CDownloads%5CRC.jpeg%22&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDEwNzNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)');
+            background-image: url('"C:\Users\brian\Downloads\RC.jpeg"');
             background-size: cover;
             background-position: center;
             color: white;
