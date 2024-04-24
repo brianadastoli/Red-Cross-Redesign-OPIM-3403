@@ -17,5 +17,3 @@ body {
     background-size: cover;
     background-position: center;
 }
-
-/* Add additional styling as needed */
