@@ -8,6 +8,5 @@
     <script src="script.js"></script>
 </head>
 <body id="body" class="dark">
-    <!-- Your existing HTML content here -->
 </body>
 </html>
