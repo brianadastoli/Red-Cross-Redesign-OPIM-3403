@@ -1,11 +1,6 @@
 # American Red Cross
 
-- [What We Do](#what-we-do)
-- [Get Involved](#get-involved)
-- [News & Updates](#news-updates)
-- [Resources](#resources)
-- [Contact](#contact)
-- [Donate](#donate)
+[What We Do](#what-we-do) --- [Get Involved](#get-involved) --- [News & Updates](#news-updates) --- [Resources](#resources) --- [Contact](#contact) --- [Donate](#donate)
 
 ---
 
