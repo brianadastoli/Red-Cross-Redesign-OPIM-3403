@@ -1,12 +1,13 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en-US">
 <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width"/>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Your Website Title</title>
-    <link rel="stylesheet" href="styles.css" />
-    <script src="script.js"></script>
 </head>
-<body id="body" class="dark">
+<body>
+    <h1>Welcome to Your Website!</h1>
+    <p>This is a simple webpage with a link.</p>
+    <a href="https://www.example.com">Visit Example.com</a>
 </body>
 </html>
