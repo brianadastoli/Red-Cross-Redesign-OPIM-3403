@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>American Red Cross</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<!-- Your content goes here -->
+
+</body>
+</html>
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('Red-Cross-Redesign-OPIM-3403/107335817-1700241587767-gettyimages-1250118415-AFP_33CF3RP.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+/* Add additional styling as needed */
