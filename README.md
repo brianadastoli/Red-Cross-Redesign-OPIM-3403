@@ -70,3 +70,9 @@
             <li><a href="#what-we-do">What We Do</a></li>
             <li><a href="#get-involved">Get Involved</a></li>
             <li><a href="#news-updates">News & Updates</a></li>
+        </ul>
+    </nav>
+</header>
+
+</body>
+</html>
