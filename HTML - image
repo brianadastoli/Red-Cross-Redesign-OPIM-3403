@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website</title>
+    <style>
+        /* CSS for the background image */
+        body {
+            background-image: url('107335817-1700241587767-gettyimages-1250118415-AFP_33CF3RP.jpg');
+            background-size: cover; /* Cover the entire viewport */
+            background-position: center; /* Center the background image */
+            font-family: Arial, sans-serif;
+            margin: 0; /* Remove default margin */
+            padding: 0; /* Remove default padding */
+        }
+
+        /* CSS for the main content */
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            color: white; /* Text color on top of the background image */
+        }
+
+        /* Additional styling */
+        h1 {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>What We Do</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Get Involved</a></li>
+                <li><a href="#">News & Updates</a></li>
+                <li><a href="#">Resources</a></li>
+                <li><a href="#">Contact</a></li>
+                <li><a href="#">Donate</a></li>
+            </ul>
+        </nav>
+        <section>
+            <h2>News & Updates</h2>
+            <p>Unite, Serve, Strengthen Together</p>
+            <p>You Can Make a Difference</p>
+            <p>American Red Cross</p>
+            <p>Your financial gift helps people affected by disasters big and small.</p>
+            <a href="#">Donate Now</a>
+        </section>
+    </div>
+</body>
+</html>
